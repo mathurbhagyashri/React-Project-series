@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mathurbhagyashri/React-Project-series/static/css/main.9dfd0073.css",
+    "main.js": "/mathurbhagyashri/React-Project-series/static/js/main.a6525f10.js",
+    "index.html": "/mathurbhagyashri/React-Project-series/index.html",
+    "main.9dfd0073.css.map": "/mathurbhagyashri/React-Project-series/static/css/main.9dfd0073.css.map",
+    "main.a6525f10.js.map": "/mathurbhagyashri/React-Project-series/static/js/main.a6525f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dfd0073.css",
+    "static/js/main.a6525f10.js"
+  ]
+}
